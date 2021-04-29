@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{R1. Observation of the corrupted signal}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{R1.a\) Original sound file}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{R1.b\) Time domain analysis of original signal}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{R1.c\) Frequency domain analysis of original signal}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{R2. Filtering with an LTI filter}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{R2.a\) Butterworth low-pass filter}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{R2.b\) Filtered signal}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{R2.c\) Analysis of the filtered signal in the time domain}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.4}{R2.d\) Analysis of the filtered signal in the frequency domain}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.5}{R2.e\) Listen to the filtered signal}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.6}{R2.a\) Improve Butterworth low-pass filter}{section.2}% 11
