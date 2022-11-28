@@ -1,6 +1,0 @@
-\BOOKMARK [1][-]{section.1}{Spectral analysis of a synthetic signal}{}% 1
-\BOOKMARK [2][-]{subsection.1.1}{R1.a\),R1.b\) Synthetic signal}{section.1}% 2
-\BOOKMARK [2][-]{subsection.1.2}{R1.c\) Discrete Fourier Transform}{section.1}% 3
-\BOOKMARK [2][-]{subsection.1.3}{R1.d\) Peaks of the magnitude of the DFT coefficients}{section.1}% 4
-\BOOKMARK [2][-]{subsection.1.4}{R1.e\) Reconstruction of synthetic signal \(N = 512\)}{section.1}% 5
-\BOOKMARK [2][-]{subsection.1.5}{R1.f\) Reconstruction of synthetic signal \(N = 1024\)}{section.1}% 6
